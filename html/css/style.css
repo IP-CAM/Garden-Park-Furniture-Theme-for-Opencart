@@ -175,7 +175,7 @@ ul.menu-top-right li:last-child {
 
 .menu-carousel .bgslide{
 	background-size: cover;
-	background-position: center center;
+	background-position: center;
 	height: 100%;
 	position: absolute;
 	left:0;
@@ -222,14 +222,39 @@ ul.menu-top-right li:last-child {
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
 
+
+	.menu-client li {
+		margin-left: 30px;
+	}
+
+	.menu-client li:first-child {
+		margin-left: 0;
+	}
+
+	.menu-client li img {
+		margin-right:10px;
+	}
+
 }
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-
+	.menu-client {
+		display: none;
+	}
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-	
+	.phone-header{
+		display: none;
+	}
+
+	.clock-header {
+		display: none;
+	}
+
+	.menu-top-left {
+		display: none;
+	}
 }
