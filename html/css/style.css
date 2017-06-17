@@ -105,11 +105,33 @@ ul.menu-top-right li:last-child {
 	margin-top: 30px;
 	float: right;
 	vertical-align: middle;
+
 }
 
-.btn-basket a{
-vertical-align: middle;
+.navbar-default {
+	border: none;
+	background: linear-gradient(to top, #d73104, #f7663f);
 }
+
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+	background: linear-gradient(to top, #d73104, #f7663f);
+	border-left: 1px solid #a33214;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: #fff;
+	background: linear-gradient(to bottom, #d73104, #f7663f);
+}
+
+.navbar-brand {
+	padding: 0;
+}
+
+.navbar-default .navbar-collapse, .navbar-default {
+	border-radius: 0;
+}
+
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
