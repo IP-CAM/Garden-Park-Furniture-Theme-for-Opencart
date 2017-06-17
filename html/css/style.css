@@ -132,6 +132,10 @@ ul.menu-top-right li:last-child {
 	border-radius: 0;
 }
 
+.menu-client {
+	margin-bottom: 15px;
+}
+
 .menu-client ul{
 	list-style: none;
 	padding: 0;
@@ -160,6 +164,55 @@ ul.menu-top-right li:last-child {
 .menu-client li img {
 	margin-right:15px;
 }
+
+.menu-carousel  {
+	margin-bottom: 20px;
+}
+
+.menu-carousel .item{
+	min-height: 350px;
+}
+
+.menu-carousel .bgslide{
+	background-size: cover;
+	background-position: center center;
+	height: 100%;
+	position: absolute;
+	left:0;
+	top:0;
+	width: 100%;
+}
+
+.menu-carousel .container{
+	position: relative;
+}
+
+.carousel-indicators{
+	position: absolute;
+	top:300px;
+}
+
+.carousel-indicators {
+	padding-top: 10px;
+}
+
+.carousel-indicators li {
+	background: #d2d5d1;
+	border-color: #ce9a30;
+	width: 15px;
+	height: 15px;
+	margin-left:8px;
+}
+
+.carousel-indicators  li.active {
+	background: #faa916;
+	border-color: #faa916;
+	width: 15px;
+	height: 15px;
+	margin-left:8px;
+}
+
+
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
