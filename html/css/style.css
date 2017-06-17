@@ -132,6 +132,34 @@ ul.menu-top-right li:last-child {
 	border-radius: 0;
 }
 
+.menu-client ul{
+	list-style: none;
+	padding: 0;
+}
+
+.menu-client li {
+	display: inline;
+	margin-left: 50px;
+}
+
+.menu-client li:first-child {
+	margin-left: 0;
+}
+
+.menu-client li a{
+	color: #616161;
+	text-decoration: none;
+	border-bottom: 1px dashed #616161;
+}
+
+.menu-client li a:hover{
+	border-bottom: 1px solid #616161;
+	color: #616161;
+}
+
+.menu-client li img {
+	margin-right:15px;
+}
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
