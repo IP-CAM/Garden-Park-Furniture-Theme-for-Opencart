@@ -6,6 +6,52 @@ body {
 	min-width:320px;
 }
 
+/*=============== header ===================*/
+.menu-top {
+	background: #444343;
+	border-bottom: 2px solid #faa916;
+	font-size:11px;
+	height: 40px;
+	text-align: center;
+}
+
+.menu-top .menu-top-left a{
+	color: #fff;
+}
+
+.menu-top .menu-top-right a{
+	color: #fff;
+}
+
+.menu-top-left{
+	float: left;
+	list-style: none;
+	margin-top: 10px;
+	padding: 0;
+}
+
+ul.menu-top-left li {
+	display: inline;
+}
+
+.menu-top-right{
+	float: right;
+	list-style: none;
+	margin-top: 10px;
+	padding: 0;
+}
+
+ul.menu-top-right li {
+	display: inline;
+	padding: 0 35px 0 0; /* верх правый низ левый */
+}
+
+.menu-top-right img,
+.menu-top-left img {
+	padding: 0 8px 0 0; 
+}
+
+
 	/* Large Devices, Wide Screens */
 	@media only screen and (max-width : 1200px) {
 	
