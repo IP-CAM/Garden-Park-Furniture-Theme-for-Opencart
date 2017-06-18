@@ -212,7 +212,55 @@ ul.menu-top-right li:last-child {
 	margin-left:8px;
 }
 
+.content-header {
+	margin-top:30px;
+	border-bottom: 1px solid #faa916;
+	position: relative;
+}
 
+.content-header h1{
+	font-size: 20px;
+	font-weight: bold;
+	color: #474747;
+}
+
+.content-header span{
+	border-bottom: 1px solid #474747;
+	z-index:20;
+	position: absolute;
+	top: -22px;
+}
+
+.product {
+	border: 1px solid #faa916;
+	margin-top:50px;
+}
+
+.product h2{
+	font-size: 16px;
+	font-weight: 500;
+	color: #fff;
+	background: #faa916;
+	padding: 10px;
+	margin: 0;
+	width: 140px;
+}
+
+.product h2 a{
+	color: #fff;
+}
+
+.product img{
+	margin-top: 20px;
+	max-height: 280px;
+}
+
+.product p{
+	color: #505050;
+	padding: 20px 60px 20px 60px; /* верх правый низ левый */
+	max-height: 100px;
+	overflow: hidden;
+}
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
