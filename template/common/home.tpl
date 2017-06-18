@@ -10,8 +10,8 @@
 					<div class="col-sm-6 text-center">		
 						<article>				
 							<div class="product">
-								<h2><a href="#">Скамейки</a></h2>
-								<a href="#"><img src="catalog/view/theme/spm/img/product-1.jpg" alt=""></a>
+								<h2><a href="http://spm.baricada.ru/index.php?route=product/category&path=64_69">Скамейки</a></h2>
+								<a href="http://spm.baricada.ru/index.php?route=product/category&path=64_69"><img src="catalog/view/theme/spm/img/product-1.jpg" alt=""></a>
 								<p>От простых и легких, до кованных и изысканных.
 									Идеальный вариант для садового или приусадебного
 									участка. Устанавливаются на улицах, во дворах
@@ -23,8 +23,8 @@
 					<div class="col-sm-6 text-center">
 						<article>
 							<div class="product">
-								<h2><a href="#">Столы</a></h2>
-								<a href="#"><img src="catalog/view/theme/spm/img/product-2.jpg" alt=""></a>
+								<h2><a href="http://spm.baricada.ru/index.php?route=product/category&path=64_70">Столы</a></h2>
+								<a href="http://spm.baricada.ru/index.php?route=product/category&path=64_70"><img src="catalog/view/theme/spm/img/product-2.jpg" alt=""></a>
 								<p>От простых и легких, до кованных и изысканных.
 									Идеальный вариант для садового или приусадебного
 									участка. Устанавливаются на улицах, во дворах
@@ -38,8 +38,8 @@
 					<div class="col-sm-6 text-center">
 						<article>						
 							<div class="product">
-								<h2><a href="#">Кресла</a></h2>
-								<a href="#"><img src="catalog/view/theme/spm/img/product-3.jpg" alt=""></a>
+								<h2><a href="http://spm.baricada.ru/index.php?route=product/category&path=64_71">Кресла</a></h2>
+								<a href="http://spm.baricada.ru/index.php?route=product/category&path=64_71"><img src="catalog/view/theme/spm/img/product-3.jpg" alt=""></a>
 								<p>От простых и легких, до кованных и изысканных.
 									Идеальный вариант для садового или приусадебного
 									участка. Устанавливаются на улицах, во дворах
@@ -51,8 +51,8 @@
 					<div class="col-sm-6 text-center">
 						<article>
 							<div class="product">
-								<h2><a href="#">Урны</a></h2>
-								<a href="#"><img src="catalog/view/theme/spm/img/product-4.jpg" alt=""></a>
+								<h2><a href="http://spm.baricada.ru/index.php?route=product/category&path=64_72">Урны</a></h2>
+								<a href="http://spm.baricada.ru/index.php?route=product/category&path=64_72"><img src="catalog/view/theme/spm/img/product-4.jpg" alt=""></a>
 								<p>От простых и легких, до кованных и изысканных.
 									Идеальный вариант для садового или приусадебного
 									участка. Устанавливаются на улицах, во дворах
