@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=d4c24cc98992e1db49d0bfc98dae91c1)
- * Config saved to config.json and https://gist.github.com/d4c24cc98992e1db49d0bfc98dae91c1
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=c544dacbf8693c7fae99810ed81a4014)
+ * Config saved to config.json and https://gist.github.com/c544dacbf8693c7fae99810ed81a4014
  */
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -1134,7 +1134,7 @@ img {
   border-radius: 6px;
 }
 .img-thumbnail {
-  padding: 4px;
+  padding: 0;
   line-height: 1.42857143;
   background-color: #ffffff;
   border: 1px solid #dddddd;
@@ -5006,7 +5006,7 @@ a.badge:focus {
 }
 .thumbnail {
   display: block;
-  padding: 4px;
+  padding: 0;
   margin-bottom: 20px;
   line-height: 1.42857143;
   background-color: #ffffff;
