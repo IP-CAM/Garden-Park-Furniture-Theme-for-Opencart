@@ -322,8 +322,37 @@ ul.menu-top-right li:last-child {
 	min-width: 300px;
 }
 
+.footer-composition {
+	text-align: center;
+}
 
+.footer-composition img{
+	width: 100%;
+}
+.content-footer {
+	color: #9a9a99;
+	background: #464645;
+}
 
+.content-footer h2{
+	font-size: 21px;
+	color: #faa916;
+	padding-bottom:15px;
+}
+.content-footer ul{
+	padding-left:0;
+}
+
+.content-footer li{
+	list-style: none;
+	padding-bottom:15px;
+}
+
+.content-footer p{
+	margin-top:25px;
+	line-height: 20px;
+	font-size: 11px;
+}
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
