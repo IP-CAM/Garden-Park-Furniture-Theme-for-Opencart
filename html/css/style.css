@@ -82,9 +82,11 @@ ul.menu-top-right li:last-child {
 	margin-top: 10px;
 	margin-bottom: 30px;
 }
+
 .phone-header{
 	font-size: 17px;
 	color: #000;
+	padding-top: 30px;
 }
 
 .clock-header {
@@ -92,8 +94,8 @@ ul.menu-top-right li:last-child {
 	color: #878787;
 }
 
-.phone-header {
-	padding-top: 30px;
+.menu-main {
+	background: #f6f6f6;
 }
 
 .btn-basket{
@@ -133,7 +135,8 @@ ul.menu-top-right li:last-child {
 }
 
 .menu-client {
-	margin-bottom: 15px;
+	background: #f6f6f6;
+	padding-bottom: 10px;
 }
 
 .menu-client ul{
@@ -212,6 +215,10 @@ ul.menu-top-right li:last-child {
 	margin-left:8px;
 }
 
+.content {
+	margin-bottom:50px;
+}
+
 .content-header {
 	margin-top:30px;
 	border-bottom: 1px solid #faa916;
@@ -253,6 +260,8 @@ ul.menu-top-right li:last-child {
 .product img{
 	margin-top: 20px;
 	max-height: 280px;
+	min-height: 280px;
+	max-width: 300px;
 }
 
 .product p{
@@ -260,6 +269,16 @@ ul.menu-top-right li:last-child {
 	padding: 20px 60px 20px 60px; /* верх правый низ левый */
 	max-height: 100px;
 	overflow: hidden;
+}
+
+.content-photo {
+	padding-top:30px;
+	margin-top:30px;
+	background: #f4f4f4;
+}
+
+.content-photo-wrap {
+	margin-top:40px;
 }
 
 /* Large Devices, Wide Screens */
