@@ -10,7 +10,7 @@
 	<meta name="keywords" content= "<?php echo $keywords; ?>" />
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=cyrillic" rel="stylesheet">
 	<link href="catalog/view/theme/spm/css/bootstrap.min.css" rel="stylesheet">
-	<link href="catalog/view/theme/spm/css/style.css" rel="stylesheet">
+	<link href="catalog/view/theme/spm/css/style1.css" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="catalog/view/theme/spm/js/bootstrap.min.js"></script>	
 	<?php foreach ($styles as $style) { ?>
