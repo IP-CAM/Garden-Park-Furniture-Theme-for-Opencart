@@ -37,7 +37,6 @@
 						<li><a href="#"><img src="catalog/view/theme/spm/img/nav-ico.gif">Березовский</a></li>
 					</ul>
 					<ul class="menu-top-right">
-						<li><a href="<?php echo $wishlist; ?>" title="<?php echo $text_wishlist; ?>"><img src="catalog/view/theme/spm/img/bookmake-ico.gif"><?php echo $text_wishlist; ?></a></li>
 						<li><a href="<?php echo $shopping_cart; ?>" title="<?php echo $text_shopping_cart; ?>"><img src="catalog/view/theme/spm/img/basket-top-ico.gif"><?php echo $text_shopping_cart; ?></a></li>
 					</ul>
 				</div>
@@ -86,10 +85,10 @@
 							<li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
 							<?php } ?>
 							<!-- <li><a href="#">Каталог</a></li> -->
-							<li><a href="#">Производство</a></li>
-							<li><a href="#">Фотогалерея</a></li>
-							<li><a href="#">Доставка</a></li>
-							<li><a href="#">Контакты</a></li>
+							<li><a href="http://spm.baricada.ru/index.php?route=information/information&information_id=8">Производство</a></li>
+							<li><a href="#photogallery">Фотогалерея</a></li>
+							<li><a href="http://spm.baricada.ru/index.php?route=information/information&information_id=6">Доставка</a></li>
+							<li><a href="http://spm.baricada.ru/index.php?route=information/information&information_id=4">Контакты</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container -->

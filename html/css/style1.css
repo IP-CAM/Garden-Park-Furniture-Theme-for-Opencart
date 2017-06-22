@@ -350,6 +350,11 @@ ul.menu-top-right li:last-child {
 	font-size: 11px;
 }
 
+.content-footer ul li a{
+	color: #9a9a99;
+	background: #464645;
+}
+
 /* opencart */
 
 /* list group */

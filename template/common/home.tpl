@@ -45,7 +45,7 @@
 			</div>
 		</div> <!-- /.content -->
 
-		<div class="content-photo">
+		<div class="content-photo" id="photogallery">
 			<div class="container">
 				<div class="content-header">
 					<h1><span>Фотогалерея</span></h1>
