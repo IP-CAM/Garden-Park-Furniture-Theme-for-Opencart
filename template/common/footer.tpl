@@ -8,14 +8,14 @@
 					<div class="col-md-4 col-sm-4 col-xs-6">
 						<h2>Информация</h2>
 						<ul>
-							<li><a href="http://spm.baricada.ru/index.php?route=information/information&information_id=7">Политика конфиденциальности</a></li>
+							<li><a href="http://spm.baricada.ru/privacy-policy">Политика конфиденциальности</a></li>
 						</ul>
 					</div>
 					<div class="col-md-4 col-sm-4 col-xs-6">
 						<h2>Служба поддержки</h2>
 						<ul>
 							<li><a href="http://spm.baricada.ru/index.php?route=information/contact">Связаться с нами</a></li>
-							<li><a href="http://spm.baricada.ru/index.php?route=information/information&information_id=4">Контакты</a></li>
+							<li><a href="http://spm.baricada.ru/contacts">Контакты</a></li>
 						</ul>
 					</div>
 					<div class="col-md-4 col-sm-4">

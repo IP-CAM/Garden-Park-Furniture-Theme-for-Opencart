@@ -85,10 +85,10 @@
 							<li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
 							<?php } ?>
 							<!-- <li><a href="#">Каталог</a></li> -->
-							<li><a href="http://spm.baricada.ru/index.php?route=information/information&information_id=8">Производство</a></li>
+							<li><a href="http://spm.baricada.ru/production">Производство</a></li>
 							<li><a href="#photogallery">Фотогалерея</a></li>
-							<li><a href="http://spm.baricada.ru/index.php?route=information/information&information_id=6">Доставка</a></li>
-							<li><a href="http://spm.baricada.ru/index.php?route=information/information&information_id=4">Контакты</a></li>
+							<li><a href="http://spm.baricada.ru/delivery">Доставка</a></li>
+							<li><a href="http://spm.baricada.ru/contacts">Контакты</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container -->
