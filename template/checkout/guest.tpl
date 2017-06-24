@@ -296,6 +296,14 @@
     <?php echo $captcha; ?>
   </div>
 </div>
+
+<div class="checkbox">
+  <label>
+    <input type="checkbox" name="shipping_address" value="1" checked="checked" />
+    Нажимая на кнопку, вы подтверждаете свое совершеннолетие и соглашаетесь<br>
+    на обработку персональных данных в соответствии с <a href="http://spm.baricada.ru/privacy-policy">условиями.</a></label>
+</div>
+
 <?php if ($shipping_required) { ?>
 <div class="checkbox" style="display:none;">
   <label>

@@ -29,6 +29,38 @@
 </head>
 
 <body>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45098463 = new Ya.Metrika({
+                    id:45098463,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45098463" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
 	<header>
 		<div class="menu-top">
 			<nav>
@@ -50,11 +82,11 @@
 						<div>
 							<img src="catalog/view/theme/spm/img/logo.gif" alt="logo">
 							<h1>БАРРИКА<span>Д</span>А</h1>
-							<h2>Производство оборудования для <br>благоустройства территории</h2>
+							<h2>Производство садово-парковой мебели <br> для благоустройства территории</h2>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-4 col-xs-6">
-						<p class="phone-header"><img src="catalog/view/theme/spm/img/phone-ico.jpg" alt="phone"><?php echo $telephone; ?></p>
+						<p class="phone-header"><img src="catalog/view/theme/spm/img/phone-ico.jpg" alt="phone"><span class="callibri_phone"><?php echo $telephone; ?></span></p>
 						<p class="clock-header"><img src="catalog/view/theme/spm/img/clock-ico.jpg" alt="clock">Ежедневно с 9:00 до 19:00 <br> г. Березовский</p>
 					</div>
 					<div class="col-md-3 col-sm-4 hidden-xs">
