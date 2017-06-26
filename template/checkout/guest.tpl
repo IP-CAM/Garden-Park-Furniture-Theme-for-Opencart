@@ -153,7 +153,7 @@
   </div>
   <div class="col-sm-6">
     <fieldset id="address">
-      <legend><?php echo $text_your_address; ?></legend>
+      <legend>Адрес доставки</legend>
       <div class="form-group" style="display:none;">
         <label class="control-label" for="input-payment-company"><?php echo $entry_company; ?></label>
         <input type="text" name="company" value="<?php echo $company; ?>" placeholder="<?php echo $entry_company; ?>" id="input-payment-company" class="form-control" />
