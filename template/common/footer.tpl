@@ -29,6 +29,33 @@
 	
 	<!-- Call tracking Callibri --> 
 	<script src="http://cdn.callibri.ru/callibri.js"; type="text/javascript"></script>
+<script type="text/javascript">
+                        function sendYandexEcommerce(array, action) {
+                            if(typeof dataLayer == 'undefined')
+                                return false;
 
+                            if(action=="remove") {
+                                var product = [{
+                                    "id": array['metrika_product_id'],
+                                    "name": array['metrika_product_name'],
+                                    "price": array['metrika_product_price']
+                                }];
+                            } else {
+                                var product = [{
+                                    "id": array['metrika_product_id'],
+                                    "name": array['metrika_product_name'],
+                                    "price": array['metrika_product_price'],
+                                    "brand": array['metrika_product_manufacturer'],
+                                    "category": array['metrika_product_category'],
+                                    "quantity": array['metrika_product_quantity']
+                                }];
+                            }
+
+                            if(action=="remove")
+                                dataLayer.push({"ecommerce": {"remove": {"products": product}}});
+                            else
+                                dataLayer.push({"ecommerce": {"add": {"products": product}}});
+                        }
+                    </script>
 </body>
 </html>

@@ -26,6 +26,8 @@
 	<?php foreach ($analytics as $analytic) { ?>
 	<?php echo $analytic; ?>
 	<?php } ?>
+
+	<script type="text/javascript">window.dataLayer = window.dataLayer || [];</script>
 </head>
 
 <body>
@@ -40,7 +42,8 @@
                     clickmap:true,
                     trackLinks:true,
                     accurateTrackBounce:true,
-                    webvisor:true
+                    webvisor:true,
+                    ecommerce:"dataLayer"
                 });
             } catch(e) { }
         });
@@ -59,7 +62,6 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/45098463" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-
 
 	<header>
 		<div class="menu-top">

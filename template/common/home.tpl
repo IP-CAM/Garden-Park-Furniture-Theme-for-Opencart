@@ -10,16 +10,16 @@
 					<div class="col-sm-6 text-center">		
 						<article>				
 							<div class="product">
-								<h2><a href="http://spm.baricada.ru/catalog/benches/">Скамейки</a></h2>
-								<a href="http://spm.baricada.ru/catalog/benches/"><img src="catalog/view/theme/spm/img/product-1.jpg" alt=""></a>
+								<h2><a href="http://spm.baricada.ru/directory/benches/">Скамейки</a></h2>
+								<a href="http://spm.baricada.ru/directory/benches/"><img src="catalog/view/theme/spm/img/product-1.jpg" alt=""></a>
 							</div> <!-- /.product -->
 						</article>
 					</div>
 					<div class="col-sm-6 text-center">
 						<article>
 							<div class="product">
-								<h2><a href="http://spm.baricada.ru/catalog/tables/">Столы</a></h2>
-								<a href="http://spm.baricada.ru/catalog/tables/"><img src="catalog/view/theme/spm/img/product-2.jpg" alt=""></a>
+								<h2><a href="http://spm.baricada.ru/directory/tables/">Столы</a></h2>
+								<a href="http://spm.baricada.ru/directory/tables/"><img src="catalog/view/theme/spm/img/product-2.jpg" alt=""></a>
 							</div> <!-- /.product -->
 						</article>
 					</div>
@@ -28,16 +28,16 @@
 					<div class="col-sm-6 text-center">
 						<article>						
 							<div class="product">
-								<h2><a href="http://spm.baricada.ru/catalog/vases/">Цветочницы</a></h2>
-								<a href="http://spm.baricada.ru/catalog/vases/"><img src="catalog/view/theme/spm/img/product-3.jpg" alt=""></a>
+								<h2><a href="http://spm.baricada.ru/directory/vases/">Цветочницы</a></h2>
+								<a href="http://spm.baricada.ru/directory/vases/"><img src="catalog/view/theme/spm/img/product-3.jpg" alt=""></a>
 							</div> <!-- /.product -->
 						</article>
 					</div>
 					<div class="col-sm-6 text-center">
 						<article>
 							<div class="product">
-								<h2><a href="http://spm.baricada.ru/catalog/trash/">Урны</a></h2>
-								<a href="http://spm.baricada.ru/catalog/trash/"><img src="catalog/view/theme/spm/img/product-4.jpg" alt=""></a>
+								<h2><a href="http://spm.baricada.ru/directory/trash/">Урны</a></h2>
+								<a href="http://spm.baricada.ru/directory/trash/"><img src="catalog/view/theme/spm/img/product-4.jpg" alt=""></a>
 							</div> <!-- /.product -->
 						</article>
 					</div>
