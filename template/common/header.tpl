@@ -4,6 +4,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="yandex-verification" content="6afafe82246b61fc" />
+
 	<title><?php echo $title;  ?></title>
 	<base href="<?php echo $base; ?>" />
 	<meta name="description" content="<?php echo $description; ?>" />
@@ -90,6 +92,7 @@
 					<div class="col-md-3 col-sm-4 col-xs-6">
 						<p class="phone-header"><img src="catalog/view/theme/spm/img/phone-ico.jpg" alt="phone"><span class="callibri_phone"><?php echo $telephone; ?></span></p>
 						<p class="clock-header"><img src="catalog/view/theme/spm/img/clock-ico.jpg" alt="clock">Ежедневно с 9:00 до 19:00 <br> г. Березовский</p>
+						<p class="email-header">e-mail: zakaz@baricada.ru</p>
 					</div>
 					<div class="col-md-3 col-sm-4 hidden-xs">
 						<?php echo $cart; ?>
